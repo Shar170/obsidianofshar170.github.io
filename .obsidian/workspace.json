@@ -15,7 +15,25 @@
               "state": {
                 "file": "Notion/Летняя практика 2024/Летняя практика 2024.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "05fa1399d35401a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0da3b8d1f0756c88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion/Летняя практика 2024/Летняя практика 2024.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -156,7 +174,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "87f99060f32a6663",
+  "active": "0da3b8d1f0756c88",
   "lastOpenFiles": [
     "Notion/Летняя практика 2024/Дипломный проект/Дипломный проект.md",
     "Notion/Летняя практика 2024/Летняя практика 2024.md",
