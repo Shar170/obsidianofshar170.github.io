@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "75d66bbd75e4e1d1",
+        "id": "4fd4761b3ac838ef",
         "type": "tabs",
         "children": [
           {
-            "id": "2b8fb28f9dee0165",
+            "id": "6be6de4b82b7d1b7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notion/Летняя практика 2024/Летняя практика 2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notion/Летняя практика 2024/Летняя практика 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notion/Летняя практика 2024/Летняя практика 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notion/Летняя практика 2024/Летняя практика 2024.md"
+              }
             }
           },
           {
@@ -144,13 +152,52 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2b8fb28f9dee0165",
+  "active": "6be6de4b82b7d1b7",
   "lastOpenFiles": [
+    "Notion/Студенты.md",
+    "%D0%A1%D0%B0%D0%B2%D0%B5%D0%BB%D1%8C%D0%B5%D0%B2.png",
+    "%D0%95%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B5%D0%B2.png",
+    "%D0%9C%D0%BE%D1%81%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE.png",
+    "Notion/Летняя практика 2024/Летняя практика 2024.md",
     "index.md",
-    "TestPage.md",
-    "index.html"
+    "Notion/Студенты/Студенты/Усачев С.С/Усачев С.С.md",
+    "Notion/Студенты/Студенты/Вавилов Андрей.md",
+    "Notion/Студенты/Студенты/Епринцев М.А/Епринцев М.А.md",
+    "Notion/Студенты/Студенты/Савельев Д.В/Савельев Д.В.md",
+    "Notion/Студенты/Студенты/Семёнова Ульяна.md",
+    "Notion/Студенты/Студенты/Никита Шишов.md",
+    "Notion/Студенты/Студенты/Вальева Ольга.md",
+    "Notion/Студенты/Студенты/Парамонова Е.Д/Парамонова Е.Д.md",
+    "Notion/Студенты/Студенты/Москаленко Д.А/Москаленко Д.А.md",
+    "Notion/Студенты/Студенты/Угаров Д.Е/Угаров Д.Е.md",
+    "Notion/Студенты/Студенты/Бабкин Иван.md",
+    "Notion/Студенты/Студенты/Бабкин Слава.md",
+    "Notion/Студенты/Студенты/Ахмедов Джамалутдин.md",
+    "Notion/Студенты/Студенты/Сергеев И.В/Сергеев И.В.md",
+    "Notion/Студенты/Студенты/Дрёмин Ярослав.md",
+    "Notion/Студенты/Студенты/Семёнова Дарья.md",
+    "image 2.png",
+    "image 1.png",
+    "image.png",
+    "c4786bbd-45ed-4a8e-8f91-83dca1f64049.png",
+    "Notion/Летняя практика 2024/Дипломный проект/Дипломный проект.md",
+    "%D0%A3%D0%B3%D0%B0%D1%80%D0%BE%D0%B2.png",
+    "%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0.png",
+    "%D0%A3%D1%81%D0%B0%D1%87%D0%B5%D0%B2.png",
+    "Notion/Студенты/Студенты/Усачев С.С",
+    "Notion/Студенты/Студенты/Епринцев М.А",
+    "Notion/Студенты/Студенты/Савельев Д.В",
+    "Notion/Студенты/Студенты/Парамонова Е.Д",
+    "Notion/Студенты/Студенты/Москаленко Д.А",
+    "Notion/Студенты/Студенты/Угаров Д.Е",
+    "Notion/Студенты/Студенты/Сергеев И.В",
+    "Notion/Студенты/Студенты",
+    "Notion/Студенты",
+    "Notion/Летняя практика 2024/Дипломный проект",
+    "TestPage.md"
   ]
 }
